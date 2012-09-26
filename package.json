@@ -1,0 +1,9 @@
+{
+  "name": "foxometer",
+  "fullName": "foxometer",
+  "description": "Measure mobile (android) Firefox UI usage",
+  "author": "Gregg Lind <glind@mozilla.com>",
+  "id": "foxometer@ux.mozilla.com",
+  "license": "MPL 2.0",
+  "version": "0.1"
+}
